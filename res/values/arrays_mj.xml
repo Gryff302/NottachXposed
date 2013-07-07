@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="power_anim_entries">
+        <item name="none">None</item>
+        <item name="fade">Fade</item>
+        <item name="crt">CRT</item>
+    </string-array>
+    <string-array name="power_anim_values">
+        <item name="none">0</item>
+        <item name="fade">1</item>
+        <item name="crt">2</item>
+    </string-array>
+
+</resources>

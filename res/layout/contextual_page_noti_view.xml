@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/contextualpage_noti_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:visibility="visible" >
+
+    <LinearLayout
+        android:id="@+id/title_background"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <TextView
+            android:id="@+id/title_text"
+            android:layout_width="fill_parent"
+            android:layout_height="28.0dip"
+            android:gravity="center_vertical"
+            android:paddingLeft="11.0dip"
+            android:textSize="17.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60.0dip"
+        android:layout_weight="1.0" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="60.0dip"
+            android:layout_weight="2.0"
+            android:background="@android:color/black"
+            android:gravity="left"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/icon_image1"
+                android:layout_width="60.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@+drawable/contextual_page_icon_bg"
+                android:focusable="true"
+                android:padding="11.0dip"
+                android:scaleType="fitCenter" />
+
+            <ImageView
+                android:id="@+id/icon_image2"
+                android:layout_width="60.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@drawable/contextual_page_icon_bg"
+                android:focusable="true"
+                android:padding="11.0dip"
+                android:scaleType="fitCenter" />
+
+            <ImageView
+                android:id="@+id/icon_image3"
+                android:layout_width="60.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@drawable/contextual_page_icon_bg"
+                android:focusable="true"
+                android:padding="11.0dip"
+                android:scaleType="fitCenter" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="60.0dip"
+            android:layout_weight="3.0"
+            android:background="@android:color/black"
+            android:gravity="right"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/icon_split1"
+                android:layout_width="1.0dip"
+                android:layout_height="22.0dip"
+                android:layout_marginTop="19.0dip"
+                android:background="@+drawable/quick_panel_cp_split" />
+
+            <ImageView
+                android:id="@+id/icon_image4"
+                android:layout_width="60.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@+drawable/contextual_page_icon_bg"
+                android:focusable="true"
+                android:padding="11.0dip"
+                android:scaleType="fitCenter" />
+
+            <ImageView
+                android:id="@+id/icon_split2"
+                android:layout_width="1.0dip"
+                android:layout_height="22.0dip"
+                android:layout_marginTop="19.0dip"
+                android:background="@+drawable/quick_panel_cp_split" />
+
+            <ImageView
+                android:id="@+id/icon_image5"
+                android:layout_width="60.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@+drawable/contextual_page_icon_bg"
+                android:focusable="true"
+                android:padding="11.0dip"
+                android:scaleType="fitCenter" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

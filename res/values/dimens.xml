@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero">0.0dip</dimen>
+    <dimen name="app_icon_size">35.0dip</dimen>
+    <dimen name="home_cellWidth_land">85.0dip</dimen>
+    <dimen name="home_cellHeight_land">74.0dip</dimen>
+    <dimen name="home_cellGapX_land">1.0dip</dimen>
+    <dimen name="home_cellGapY_land">1.0dip</dimen>
+    <dimen name="home_cellWidth_port">70.0dip</dimen>
+    <dimen name="home_cellHeight_port">99.0dip</dimen>
+    <dimen name="home_cellGapX_port">1.0dip</dimen>
+    <dimen name="home_cellGapY_port">1.0dip</dimen>
+    <dimen name="home_pageMarginPlusPaddingTop">2.0dip</dimen>
+    <dimen name="menuAppsGrid_pageMarginPlusPaddingTop">15.0dip</dimen>
+    <dimen name="menuAppsGrid_cellWidth">68.0dip</dimen>
+    <dimen name="menuAppsGrid_cellHeight">82.0dip</dimen>
+    <dimen name="menuAppsGrid_cellGapX">0.0dip</dimen>
+    <dimen name="menuAppsGrid_cellGapY">0.0dip</dimen>
+    <dimen name="home_pageIndicatorGap">1.0dip</dimen>
+    <dimen name="home_pageIndicatorTop">590.0dip</dimen>
+    <dimen name="home_pageIndicatorTopShrunken">590.0dip</dimen>
+    <dimen name="hotseat_cellWidth">75.0dip</dimen>
+    <dimen name="hotseat_cellHeight">99.0dip</dimen>
+</resources>

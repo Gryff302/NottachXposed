@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="mintJelly"
+    android:title="@string/mint_jelly" >
+
+    <PreferenceCategory android:title="@string/power" >
+        <ListPreference
+            android:defaultValue="None"
+            android:entries="@array/power_anim_entries"
+            android:entryValues="@array/power_anim_values"
+            android:key="powerAnimOn"
+            android:summary="Set the screen on animation"
+            android:title="Screen on animation" />
+        <ListPreference
+            android:defaultValue="CRT"
+            android:entries="@array/power_anim_entries"
+            android:entryValues="@array/power_anim_values"
+            android:key="powerAnimOff"
+            android:summary="Set the screen off animation"
+            android:title="Screen off animation" />
+
+    </PreferenceCategory>
+        <PreferenceCategory android:title="@string/phone" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="enableCallRecording"
+            android:summaryOff="@string/enabled_call_recording_off"
+            android:summaryOn="@string/enabled_call_recording_on"
+            android:title="@string/enabled_call_recording" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:maxLevel="0">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim0_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_0_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="1">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim1_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_1_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="2">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim2_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_2_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="3">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim3_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_3_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="4">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim4_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_4_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="5">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim5_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_5_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="6">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim6_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_6_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="7">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim7_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_7_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="8">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim8_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_8_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="9">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim9_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_9_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="10">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim10_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_10_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="11">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim11_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_11_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="12">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim12_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_12_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="13">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim13_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_13_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="14">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim14_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_14_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="15">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim15_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_15_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="16">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim16_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_16_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="17">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim17_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_17_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="18">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim18_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_18_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="19">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim19_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_19_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="20">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim20_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_20_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="21">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim21_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_21_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="22">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim22_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_22_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="23">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim23_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_23_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="24">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim24_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_24_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="25">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim25_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_25_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="26">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim26_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_26_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="27">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim27_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_27_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="28">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim28_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_28_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="29">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim29_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_29_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="30">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim30_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_30_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="31">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim31_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_31_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="32">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim32_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_32_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="33">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim33_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_33_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="34">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim34_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_34_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="35">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim35_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_35_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="36">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim36_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_36_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="37">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim37_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_37_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="38">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim38_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_38_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="39">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim39_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_39_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="40">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim40_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_40_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="41">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim41_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_41_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="42">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim42_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_42_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="43">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim43_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_43_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="44">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim44_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_44_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="45">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim45_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_45_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="46">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim46_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_46_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="47">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim47_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_47_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="48">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim48_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_48_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="49">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim49_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_49_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="50">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim50_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_50_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="51">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim51_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_51_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="52">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim52_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_52_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="53">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim53_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_53_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="54">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim54_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_54_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="55">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim55_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_55_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="56">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim56_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_56_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="57">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim57_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_57_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="58">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim58_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_58_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="59">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim59_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_59_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="60">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim60_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_60_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="61">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim61_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_61_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="62">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim62_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_62_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="63">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim63_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_63_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="64">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim64_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_64_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="65">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim65_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_65_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="66">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim66_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_66_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="67">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim67_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_67_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="68">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim68_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_68_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="69">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim69_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_69_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="70">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim70_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_70_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="71">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim71_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_71_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="72">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim72_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_72_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="73">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim73_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_73_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="74">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim74_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_74_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="75">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim75_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_75_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="76">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim76_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_76_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="77">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim77_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_77_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="78">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim78_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_78_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="79">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim79_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_79_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="80">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim80_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_80_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="81">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim81_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_81_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="82">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim82_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_82_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="83">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim83_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_83_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="84">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim84_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_84_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="85">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim85_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_85_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="86">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim86_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_86_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="87">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim87_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_87_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="88">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim88_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_88_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="89">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim89_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_89_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="90">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim90_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_90_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="91">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim91_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_91_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="92">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim92_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_92_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="93">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim93_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_93_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="94">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim94_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_94_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="95">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim95_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_95_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="96">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim96_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_96_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="97">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim97_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_97_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="98">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim98_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_98_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="99">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim99_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_99_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="100">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1500" android:drawable="@drawable/stat_sys_battery_charge_anim100_kryptosx" />
+            <item android:duration="500" android:drawable="@drawable/stat_sys_battery_100_kryptosx" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="101">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1000" android:drawable="@drawable/stat_sys_battery_charge_anim100_kryptosx" />
+            <item android:duration="1000" android:drawable="@drawable/stat_sys_battery_charge_animfull_kryptosx" />
+        </animation-list>
+    </item>
+</level-list>

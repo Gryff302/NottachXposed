@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="signal_icon_set_entries">
+        <item>@string/att_icons</item>
+        <item>@string/global_icons</item>
+        <item>@string/minimal_icons</item>
+    </string-array>
+    <string-array name="signal_icon_set_values">
+        <item>@string/att_icons</item>
+        <item>@string/global_icons</item>
+        <item>@string/minimal_icons</item>
+    </string-array>
+    <string-array name="nfc_icon_entries">
+        <item>@string/att_icon</item>
+        <item>@string/global_icon</item>
+        <item>@string/minimal_icon</item>
+    </string-array>
+    <string-array name="nfc_icon_values">
+        <item>@string/att_icon</item>
+        <item>@string/global_icon</item>
+        <item>@string/minimal_icon</item>
+    </string-array>
+    <string-array name="long_home_press_entries">
+        <item name="open_an_application">@string/launch_an_application</item>
+        <item name="do_nothing">@string/do_nothing</item>
+        <item name="classic_recents_style">@string/classic_recents_style</item>
+        <item name="modern_recents_style">@string/modern_recents_style</item>
+        <item name="launch_google_now">@string/launch_google_now</item>
+    </string-array>
+    <string-array name="long_home_press_values">
+        <item name="open_an_application">-1337</item>
+        <item name="do_nothing">0</item>
+        <item name="classic_recents_style">1</item>
+        <item name="modern_recents_style">2</item>
+        <item name="launch_google_now">3</item>
+    </string-array>
+    <string-array name="nfc_behavior_entries">
+        <item name="unlocked">@string/unlocked</item>
+        <item name="screen_on">@string/screen_on</item>
+        <item name="screen_off">@string/screen_off</item>
+    </string-array>
+    <string-array name="nfc_behavior_values">
+        <item name="unlocked">0</item>
+        <item name="screen_on">1</item>
+        <item name="screen_off">2</item>
+    </string-array>
+    <string-array name="am_pm_entries">
+        <item name="hide">@string/hide</item>
+        <item name="small">@string/small</item>
+        <item name="large">@string/large</item>
+    </string-array>
+    <string-array name="am_pm_values">
+        <item name="hide">@string/hide</item>
+        <item name="small">@string/small</item>
+        <item name="large">@string/large</item>
+    </string-array>
+    <string-array name="typeface_style_entries">
+        <item name="light">@string/italic</item>
+        <item name="normal">@string/normal</item>
+        <item name="bold">@string/bold</item>
+    </string-array>
+    <string-array name="typeface_style_values">
+        <item name="italic">@string/italic</item>
+        <item name="normal">@string/normal</item>
+        <item name="bold">@string/bold</item>
+    </string-array>
+    <string-array name="typeface_family_entries">
+        <item name="regular">@string/regular</item>
+        <item name="light">@string/light</item>
+        <item name="condensed">@string/condensed</item>
+        <item name="thin">@string/thin</item>
+    </string-array>
+    <string-array name="typeface_family_values">
+        <item name="regular">@string/regular</item>
+        <item name="light">@string/light</item>
+        <item name="condensed">@string/condensed</item>
+        <item name="thin">@string/thin</item>
+    </string-array>
+    <string-array name="clock_position_entries">
+        <item name="hide">@string/hide</item>
+        <item name="right">@string/right</item>
+        <item name="center">@string/center</item>
+        <item name="left">@string/left</item>
+    </string-array>
+    <string-array name="clock_position_values">
+        <item name="hide">@string/hide</item>
+        <item name="right">@string/right</item>
+        <item name="center">@string/center</item>
+        <item name="left">@string/left</item>
+    </string-array>
+    <string-array name="clock_size_entries">
+        <item name="small">@string/small</item>
+        <item name="medium">@string/medium</item>
+        <item name="large">@string/large</item>
+    </string-array>
+    <string-array name="clock_size_values">
+        <item name="small">@string/small</item>
+        <item name="medium">@string/medium</item>
+        <item name="large">@string/large</item>
+    </string-array>
+    <string-array name="launcher_grid_entries">
+        <item name="fourXfour">@string/fourXfour</item>
+        <item name="fiveXfive">@string/fiveXfive</item>
+        <item name="fiveXsix">@string/fiveXsix</item>
+    </string-array>
+    <string-array name="launcher_grid_values">
+        <item name="fourXfour">@string/fourXfour</item>
+        <item name="fiveXfive">@string/fiveXfive</item>
+        <item name="fiveXsix">@string/fiveXsix</item>
+    </string-array>
+    <string-array name="mms_message_size_limit_entries">
+        <item name="default_message_size">@string/default_message_size</item>
+        <item name="larger_message_size">@string/larger_message_size</item>
+        <item name="huge_message_size">@string/huge_message_size</item>
+    </string-array>
+    <string-array name="mms_message_size_limit_values">
+        <item name="default_message_size">0</item>
+        <item name="larger_message_size">1</item>
+        <item name="huge_message_size">2</item>
+    </string-array>
+    <string-array name="mms_image_limit_entries">
+        <item name="default_image_size">@string/default_image_size</item>
+        <item name="larger_image_size">@string/larger_image_size</item>
+        <item name="huge_image_size">@string/huge_image_size</item>
+    </string-array>
+    <string-array name="mms_image_limit_values">
+        <item name="default_image_size">0</item>
+        <item name="larger_image_size">1</item>
+        <item name="huge_image_size">2</item>
+    </string-array>
+    <string-array name="smart_alarm_time_entries">
+        <item name="always_hide">@string/always_hide</item>
+        <item name="show_15_min_before">@string/show_15_min_before</item>
+        <item name="show_30_min_before">@string/show_30_min_before</item>
+        <item name="show_60_min_before">@string/show_60_min_before</item>
+        <item name="show_180_min_before">@string/show_180_min_before</item>
+        <item name="show_360_min_before">@string/show_360_min_before</item>
+        <item name="show_720_min_before">@string/show_720_min_before</item>
+        <item name="show_1440_min_before">@string/show_1440_min_before</item>
+    </string-array>
+    <string-array name="smart_alarm_time_values">
+        <item name="always_hide">0</item>
+        <item name="show_15_min_before">15</item>
+        <item name="show_30_min_before">30</item>
+        <item name="show_60_min_before">60</item>
+        <item name="show_180_min_before">180</item>
+        <item name="show_360_min_before">360</item>
+        <item name="show_720_min_before">720</item>
+        <item name="show_1440_min_before">1440</item>
+    </string-array>
+    <string-array name="battery_icon_entries">
+        <item name="stock">Stock</item>
+        <item name="circle_1">Circle 1</item>
+        <item name="circle_2">Circle 2</item>
+        <item name="segmented">Segmented</item>
+        <item name="castaway">Castaway</item>
+        <item name="kryptosx">KryptosX</item>
+        <item name="minimal">Minimal</item>
+    </string-array>
+    <string-array name="battery_icon_values">
+        <item name="stock">Stock</item>
+        <item name="circle_1">Circle_1</item>
+        <item name="circle_2">Circle_2</item>
+        <item name="segmented">Segmented</item>
+        <item name="castaway">Castaway</item>
+        <item name="kryptosx">KryptosX</item>
+        <item name="minimal">Minimal</item>
+    </string-array>
+    <string-array name="toggle_drawable_res_names">
+        <item>tw_quick_panel_icon_air_gesture_dim</item>
+        <item>tw_quick_panel_icon_air_gesture_off</item>
+        <item>tw_quick_panel_icon_air_gesture_on</item>
+        <item>tw_quick_panel_icon_air_view_dim</item>
+        <item>tw_quick_panel_icon_air_view_off</item>
+        <item>tw_quick_panel_icon_air_view_on</item>
+        <item>tw_quick_panel_icon_airplane_dim</item>
+        <item>tw_quick_panel_icon_airplane_off</item>
+        <item>tw_quick_panel_icon_airplane_on</item>
+        <item>tw_quick_panel_icon_allshre_cast_dim</item>
+        <item>tw_quick_panel_icon_allshre_cast_off</item>
+        <item>tw_quick_panel_icon_allshre_cast_on</item>
+        <item>tw_quick_panel_icon_bluetooth_dim</item>
+        <item>tw_quick_panel_icon_bluetooth_off</item>
+        <item>tw_quick_panel_icon_bluetooth_on</item>
+        <item>tw_quick_panel_icon_bright_dim</item>
+        <item>tw_quick_panel_icon_bright_off</item>
+        <item>tw_quick_panel_icon_bright_on</item>
+        <item>tw_quick_panel_icon_data_connection_dim</item>
+        <item>tw_quick_panel_icon_data_connection_off</item>
+        <item>tw_quick_panel_icon_data_connection_on</item>
+        <item>tw_quick_panel_icon_dormant_mode_dim</item>
+        <item>tw_quick_panel_icon_dormant_mode_off</item>
+        <item>tw_quick_panel_icon_dormant_mode_on</item>
+        <item>tw_quick_panel_icon_driving_dim</item>
+        <item>tw_quick_panel_icon_driving_off</item>
+        <item>tw_quick_panel_icon_driving_on</item>
+        <item>tw_quick_panel_icon_gps_dim</item>
+        <item>tw_quick_panel_icon_gps_off</item>
+        <item>tw_quick_panel_icon_gps_on</item>
+        <item>tw_quick_panel_icon_multiwindow_dim</item>
+        <item>tw_quick_panel_icon_multiwindow_off</item>
+        <item>tw_quick_panel_icon_multiwindow_on</item>
+        <item>tw_quick_panel_icon_mute_on</item>
+        <item>tw_quick_panel_icon_nfcc_dim</item>
+        <item>tw_quick_panel_icon_nfcc_off</item>
+        <item>tw_quick_panel_icon_nfcc_on</item>
+        <item>tw_quick_panel_icon_nfcc_dim_att</item>
+        <item>tw_quick_panel_icon_nfcc_off_att</item>
+        <item>tw_quick_panel_icon_nfcc_on_att</item>
+        <item>tw_quick_panel_icon_powersave_dim</item>
+        <item>tw_quick_panel_icon_powersave_off</item>
+        <item>tw_quick_panel_icon_powersave_on</item>
+        <item>tw_quick_panel_icon_rotation_off</item>
+        <item>tw_quick_panel_icon_rotation_on</item>
+        <item>tw_quick_panel_icon_sbeam_dim</item>
+        <item>tw_quick_panel_icon_sbeam_off</item>
+        <item>tw_quick_panel_icon_sbeam_on</item>
+        <item>tw_quick_panel_icon_silent_mode_on_on</item>
+        <item>tw_quick_panel_icon_silent_off</item>
+        <item>tw_quick_panel_icon_silent_on</item>
+        <item>tw_quick_panel_icon_smartpause_dim</item>
+        <item>tw_quick_panel_icon_smartpause_off</item>
+        <item>tw_quick_panel_icon_smartpause_on</item>
+        <item>tw_quick_panel_icon_smartscroll_dim</item>
+        <item>tw_quick_panel_icon_smartscroll_off</item>
+        <item>tw_quick_panel_icon_smartscroll_motion</item>
+        <item>tw_quick_panel_icon_smartscroll_on</item>
+        <item>tw_quick_panel_icon_smartstay_dim</item>
+        <item>tw_quick_panel_icon_smartstay_off</item>
+        <item>tw_quick_panel_icon_smartstay_on</item>
+        <item>tw_quick_panel_icon_sync_dim</item>
+        <item>tw_quick_panel_icon_sync_off</item>
+        <item>tw_quick_panel_icon_sync_on</item>
+        <item>tw_quick_panel_icon_wifi_dim</item>
+        <item>tw_quick_panel_icon_wifi_off</item>
+        <item>tw_quick_panel_icon_wifi_on</item>
+        <item>tw_quick_panel_icon_wifihotspot_dim</item>
+        <item>tw_quick_panel_icon_wifihotspot_off</item>
+        <item>tw_quick_panel_icon_wifihotspot_on</item>
+        <item>tw_quick_panel_on</item>
+        <item>tw_quick_panel_off</item>
+        <item>tw_quick_panel_dim</item>
+    </string-array>
+    <string-array name="anim_res_names">
+        <item>accelerate_decelerate_interpolator</item>
+        <item>accelerate_interpolator</item>
+        <item>activity_close_enter</item>
+        <item>activity_close_exit</item>
+        <item>activity_open_enter</item>
+        <item>activity_open_exit</item>
+        <item>anticipate_interpolator</item>
+        <item>anticipate_overshoot_interpolator</item>
+        <item>app_starting_exit</item>
+        <item>bounce_interpolator</item>
+        <item>cycle_interpolator</item>
+        <item>decelerate_interpolator</item>
+        <item>dialog_enter</item>
+        <item>dialog_exit</item>
+        <item>fade_in</item>
+        <item>fade_out</item>
+        <item>fast_fade_in</item>
+        <item>fast_fade_out</item>
+        <item>grow_fade_in_center</item>
+        <item>grow_fade_in_from_bottom</item>
+        <item>grow_fade_in</item>
+        <item>input_method_enter</item>
+        <item>input_method_exit</item>
+        <item>input_method_extract_enter</item>
+        <item>input_method_extract_exit</item>
+        <item>input_method_fancy_enter</item>
+        <item>input_method_fancy_exit</item>
+        <item>linear_interpolator</item>
+        <item>lock_screen_behind_enter</item>
+        <item>lock_screen_enter</item>
+        <item>lock_screen_exit</item>
+        <item>options_panel_enter</item>
+        <item>options_panel_exit</item>
+        <item>overshoot_interpolator</item>
+        <item>push_down_in_no_alpha</item>
+        <item>push_down_in</item>
+        <item>push_down_out_no_alpha</item>
+        <item>push_down_out</item>
+        <item>push_up_in</item>
+        <item>push_up_out</item>
+        <item>recent_enter</item>
+        <item>recent_exit</item>
+        <item>screen_rotate_0_enter</item>
+        <item>screen_rotate_0_exit</item>
+        <item>screen_rotate_180_enter</item>
+        <item>screen_rotate_180_exit</item>
+        <item>screen_rotate_minus_90_enter</item>
+        <item>screen_rotate_minus_90_exit</item>
+        <item>screen_rotate_plus_90_enter</item>
+        <item>screen_rotate_plus_90_exit</item>
+        <item>search_bar_enter</item>
+        <item>search_bar_exit</item>
+        <item>shrink_fade_out_center</item>
+        <item>shrink_fade_out_from_bottom</item>
+        <item>shrink_fade_out</item>
+        <item>slide_in_child_bottom</item>
+        <item>slide_in_left</item>
+        <item>slide_in_right</item>
+        <item>slide_in_up</item>
+        <item>slide_out_down</item>
+        <item>slide_out_left</item>
+        <item>slide_out_right</item>
+        <item>submenu_enter</item>
+        <item>submenu_exit</item>
+        <item>task_close_enter</item>
+        <item>task_close_exit</item>
+        <item>task_open_enter</item>
+        <item>task_open_exit</item>
+        <item>toast_enter</item>
+        <item>toast_exit</item>
+        <item>translucent_enter</item>
+        <item>translucent_exit</item>
+        <item>wallpaper_close_enter</item>
+        <item>wallpaper_close_exit</item>
+        <item>wallpaper_enter</item>
+        <item>wallpaper_exit</item>
+        <item>wallpaper_intra_close_enter</item>
+        <item>wallpaper_intra_close_exit</item>
+        <item>wallpaper_intra_open_enter</item>
+        <item>wallpaper_intra_open_exit</item>
+        <item>wallpaper_open_enter</item>
+        <item>wallpaper_open_exit</item>
+        <item>window_move_from_decor</item>
+    </string-array>
+    <string-array name="minimal_framework_replacements">
+        <item>settings_facedetection_dim</item>
+        <item>settings_facedetection_nor</item>
+        <item>stat_notify_call_mute</item>
+        <item>stat_sys_speakerphone</item>
+    </string-array>
+    <string-array name="minimal_sysui_replacements">
+        <item>stat_sys_alarm</item>
+        <item>stat_sys_data_bluetooth</item>
+        <item>stat_sys_data_bluetooth_connected</item>
+        <item>stat_sys_data_connected_1x</item>
+        <item>stat_sys_data_connected_2g</item>
+        <item>stat_sys_data_connected_3g</item>
+        <item>stat_sys_data_connected_3g_plus</item>
+        <item>stat_sys_data_connected_4g</item>
+        <item>stat_sys_data_connected_4g_att</item>
+        <item>stat_sys_data_connected_4g_lte</item>
+        <item>stat_sys_data_connected_4g_lte_ltn</item>
+        <item>stat_sys_data_connected_4g_lte_plus</item>
+        <item>stat_sys_data_connected_e</item>
+        <item>stat_sys_data_connected_g</item>
+        <item>stat_sys_data_connected_h</item>
+        <item>stat_sys_data_connected_h_plus</item>
+        <item>stat_sys_data_connected_lte</item>
+        <item>stat_sys_data_connected_lte_att</item>
+        <item>stat_sys_data_fully_connected_2g</item>
+        <item>stat_sys_data_fully_connected_4g_lte</item>
+        <item>stat_sys_data_fully_connected_4g_lte_ltn</item>
+        <item>stat_sys_data_fully_connected_4g_lte_plus</item>
+        <item>stat_sys_data_in_att_1</item>
+        <item>stat_sys_data_in_att_2</item>
+        <item>stat_sys_data_in_att_3</item>
+        <item>stat_sys_data_out_att_1</item>
+        <item>stat_sys_data_out_att_2</item>
+        <item>stat_sys_data_out_att_3</item>
+        <item>stat_sys_data_s3g</item>
+        <item>stat_sys_data_s4g</item>
+        <item>stat_sys_data_w3g</item>
+        <item>stat_sys_data_w4g</item>
+        <item>stat_sys_ringer_silent</item>
+        <item>stat_sys_ringer_vibrate</item>
+        <item>stat_sys_roaming_cdma_0</item>
+        <item>stat_sys_signal_0</item>
+        <item>stat_sys_signal_1</item>
+        <item>stat_sys_signal_2</item>
+        <item>stat_sys_signal_3</item>
+        <item>stat_sys_signal_4</item>
+        <item>stat_sys_signal_flightmode</item>
+        <item>stat_sys_signal_in</item>
+        <item>stat_sys_signal_inout</item>
+        <item>stat_sys_signal_no_inout</item>
+        <item>stat_sys_signal_out</item>
+        <item>stat_sys_wifi_signal_0</item>
+        <item>stat_sys_wifi_signal_1</item>
+        <item>stat_sys_wifi_signal_2</item>
+        <item>stat_sys_wifi_signal_3</item>
+        <item>stat_sys_wifi_signal_4</item>
+        <item>stat_sys_wifi_signal_0_hideinout</item>
+        <item>stat_sys_wifi_signal_1_hideinout</item>
+        <item>stat_sys_wifi_signal_2_hideinout</item>
+        <item>stat_sys_wifi_signal_3_hideinout</item>
+        <item>stat_sys_wifi_signal_4_hideinout</item>
+        <item>tw_stat_sys_5_level_signal_0</item>
+        <item>tw_stat_sys_5_level_signal_1</item>
+        <item>tw_stat_sys_5_level_signal_2</item>
+        <item>tw_stat_sys_5_level_signal_3</item>
+        <item>tw_stat_sys_5_level_signal_4</item>
+        <item>tw_stat_sys_5_level_signal_5</item>
+        <item>tw_stat_sys_6_level_signal_0</item>
+        <item>tw_stat_sys_6_level_signal_1</item>
+        <item>tw_stat_sys_6_level_signal_2</item>
+        <item>tw_stat_sys_6_level_signal_3</item>
+        <item>tw_stat_sys_6_level_signal_4</item>
+        <item>tw_stat_sys_6_level_signal_5</item>
+        <item>tw_stat_sys_signal_null</item>
+    </string-array>
+    <string-array name="battery_drawable_res_names">
+        <item>stat_sys_battery_0</item>
+        <item>stat_sys_battery_1</item>
+        <item>stat_sys_battery_2</item>
+        <item>stat_sys_battery_3</item>
+        <item>stat_sys_battery_4</item>
+        <item>stat_sys_battery_5</item>
+        <item>stat_sys_battery_6</item>
+        <item>stat_sys_battery_7</item>
+        <item>stat_sys_battery_8</item>
+        <item>stat_sys_battery_9</item>
+        <item>stat_sys_battery_10</item>
+        <item>stat_sys_battery_11</item>
+        <item>stat_sys_battery_12</item>
+        <item>stat_sys_battery_13</item>
+        <item>stat_sys_battery_14</item>
+        <item>stat_sys_battery_15</item>
+        <item>stat_sys_battery_16</item>
+        <item>stat_sys_battery_17</item>
+        <item>stat_sys_battery_18</item>
+        <item>stat_sys_battery_19</item>
+        <item>stat_sys_battery_20</item>
+        <item>stat_sys_battery_21</item>
+        <item>stat_sys_battery_22</item>
+        <item>stat_sys_battery_23</item>
+        <item>stat_sys_battery_24</item>
+        <item>stat_sys_battery_25</item>
+        <item>stat_sys_battery_26</item>
+        <item>stat_sys_battery_27</item>
+        <item>stat_sys_battery_28</item>
+        <item>stat_sys_battery_29</item>
+        <item>stat_sys_battery_30</item>
+        <item>stat_sys_battery_31</item>
+        <item>stat_sys_battery_32</item>
+        <item>stat_sys_battery_33</item>
+        <item>stat_sys_battery_34</item>
+        <item>stat_sys_battery_35</item>
+        <item>stat_sys_battery_36</item>
+        <item>stat_sys_battery_37</item>
+        <item>stat_sys_battery_38</item>
+        <item>stat_sys_battery_39</item>
+        <item>stat_sys_battery_40</item>
+        <item>stat_sys_battery_41</item>
+        <item>stat_sys_battery_42</item>
+        <item>stat_sys_battery_43</item>
+        <item>stat_sys_battery_44</item>
+        <item>stat_sys_battery_45</item>
+        <item>stat_sys_battery_46</item>
+        <item>stat_sys_battery_47</item>
+        <item>stat_sys_battery_48</item>
+        <item>stat_sys_battery_49</item>
+        <item>stat_sys_battery_50</item>
+        <item>stat_sys_battery_51</item>
+        <item>stat_sys_battery_52</item>
+        <item>stat_sys_battery_53</item>
+        <item>stat_sys_battery_54</item>
+        <item>stat_sys_battery_55</item>
+        <item>stat_sys_battery_56</item>
+        <item>stat_sys_battery_57</item>
+        <item>stat_sys_battery_58</item>
+        <item>stat_sys_battery_59</item>
+        <item>stat_sys_battery_60</item>
+        <item>stat_sys_battery_61</item>
+        <item>stat_sys_battery_62</item>
+        <item>stat_sys_battery_63</item>
+        <item>stat_sys_battery_64</item>
+        <item>stat_sys_battery_65</item>
+        <item>stat_sys_battery_66</item>
+        <item>stat_sys_battery_67</item>
+        <item>stat_sys_battery_68</item>
+        <item>stat_sys_battery_69</item>
+        <item>stat_sys_battery_70</item>
+        <item>stat_sys_battery_71</item>
+        <item>stat_sys_battery_72</item>
+        <item>stat_sys_battery_73</item>
+        <item>stat_sys_battery_74</item>
+        <item>stat_sys_battery_75</item>
+        <item>stat_sys_battery_76</item>
+        <item>stat_sys_battery_77</item>
+        <item>stat_sys_battery_78</item>
+        <item>stat_sys_battery_79</item>
+        <item>stat_sys_battery_80</item>
+        <item>stat_sys_battery_81</item>
+        <item>stat_sys_battery_82</item>
+        <item>stat_sys_battery_83</item>
+        <item>stat_sys_battery_84</item>
+        <item>stat_sys_battery_85</item>
+        <item>stat_sys_battery_86</item>
+        <item>stat_sys_battery_87</item>
+        <item>stat_sys_battery_88</item>
+        <item>stat_sys_battery_89</item>
+        <item>stat_sys_battery_90</item>
+        <item>stat_sys_battery_91</item>
+        <item>stat_sys_battery_92</item>
+        <item>stat_sys_battery_93</item>
+        <item>stat_sys_battery_94</item>
+        <item>stat_sys_battery_95</item>
+        <item>stat_sys_battery_96</item>
+        <item>stat_sys_battery_97</item>
+        <item>stat_sys_battery_98</item>
+        <item>stat_sys_battery_99</item>
+        <item>stat_sys_battery_100</item>
+        <item>stat_sys_battery_charge_anim0</item>
+        <item>stat_sys_battery_charge_anim1</item>
+        <item>stat_sys_battery_charge_anim2</item>
+        <item>stat_sys_battery_charge_anim3</item>
+        <item>stat_sys_battery_charge_anim4</item>
+        <item>stat_sys_battery_charge_anim5</item>
+        <item>stat_sys_battery_charge_anim6</item>
+        <item>stat_sys_battery_charge_anim7</item>
+        <item>stat_sys_battery_charge_anim8</item>
+        <item>stat_sys_battery_charge_anim9</item>
+        <item>stat_sys_battery_charge_anim10</item>
+        <item>stat_sys_battery_charge_anim11</item>
+        <item>stat_sys_battery_charge_anim12</item>
+        <item>stat_sys_battery_charge_anim13</item>
+        <item>stat_sys_battery_charge_anim14</item>
+        <item>stat_sys_battery_charge_anim15</item>
+        <item>stat_sys_battery_charge_anim16</item>
+        <item>stat_sys_battery_charge_anim17</item>
+        <item>stat_sys_battery_charge_anim18</item>
+        <item>stat_sys_battery_charge_anim19</item>
+        <item>stat_sys_battery_charge_anim20</item>
+        <item>stat_sys_battery_charge_anim21</item>
+        <item>stat_sys_battery_charge_anim22</item>
+        <item>stat_sys_battery_charge_anim23</item>
+        <item>stat_sys_battery_charge_anim24</item>
+        <item>stat_sys_battery_charge_anim25</item>
+        <item>stat_sys_battery_charge_anim26</item>
+        <item>stat_sys_battery_charge_anim27</item>
+        <item>stat_sys_battery_charge_anim28</item>
+        <item>stat_sys_battery_charge_anim29</item>
+        <item>stat_sys_battery_charge_anim30</item>
+        <item>stat_sys_battery_charge_anim31</item>
+        <item>stat_sys_battery_charge_anim32</item>
+        <item>stat_sys_battery_charge_anim33</item>
+        <item>stat_sys_battery_charge_anim34</item>
+        <item>stat_sys_battery_charge_anim35</item>
+        <item>stat_sys_battery_charge_anim36</item>
+        <item>stat_sys_battery_charge_anim37</item>
+        <item>stat_sys_battery_charge_anim38</item>
+        <item>stat_sys_battery_charge_anim39</item>
+        <item>stat_sys_battery_charge_anim40</item>
+        <item>stat_sys_battery_charge_anim41</item>
+        <item>stat_sys_battery_charge_anim42</item>
+        <item>stat_sys_battery_charge_anim43</item>
+        <item>stat_sys_battery_charge_anim44</item>
+        <item>stat_sys_battery_charge_anim45</item>
+        <item>stat_sys_battery_charge_anim46</item>
+        <item>stat_sys_battery_charge_anim47</item>
+        <item>stat_sys_battery_charge_anim48</item>
+        <item>stat_sys_battery_charge_anim49</item>
+        <item>stat_sys_battery_charge_anim50</item>
+        <item>stat_sys_battery_charge_anim51</item>
+        <item>stat_sys_battery_charge_anim52</item>
+        <item>stat_sys_battery_charge_anim53</item>
+        <item>stat_sys_battery_charge_anim54</item>
+        <item>stat_sys_battery_charge_anim55</item>
+        <item>stat_sys_battery_charge_anim56</item>
+        <item>stat_sys_battery_charge_anim57</item>
+        <item>stat_sys_battery_charge_anim58</item>
+        <item>stat_sys_battery_charge_anim59</item>
+        <item>stat_sys_battery_charge_anim60</item>
+        <item>stat_sys_battery_charge_anim61</item>
+        <item>stat_sys_battery_charge_anim62</item>
+        <item>stat_sys_battery_charge_anim63</item>
+        <item>stat_sys_battery_charge_anim64</item>
+        <item>stat_sys_battery_charge_anim65</item>
+        <item>stat_sys_battery_charge_anim66</item>
+        <item>stat_sys_battery_charge_anim67</item>
+        <item>stat_sys_battery_charge_anim68</item>
+        <item>stat_sys_battery_charge_anim69</item>
+        <item>stat_sys_battery_charge_anim70</item>
+        <item>stat_sys_battery_charge_anim71</item>
+        <item>stat_sys_battery_charge_anim72</item>
+        <item>stat_sys_battery_charge_anim73</item>
+        <item>stat_sys_battery_charge_anim74</item>
+        <item>stat_sys_battery_charge_anim75</item>
+        <item>stat_sys_battery_charge_anim76</item>
+        <item>stat_sys_battery_charge_anim77</item>
+        <item>stat_sys_battery_charge_anim78</item>
+        <item>stat_sys_battery_charge_anim79</item>
+        <item>stat_sys_battery_charge_anim80</item>
+        <item>stat_sys_battery_charge_anim81</item>
+        <item>stat_sys_battery_charge_anim82</item>
+        <item>stat_sys_battery_charge_anim83</item>
+        <item>stat_sys_battery_charge_anim84</item>
+        <item>stat_sys_battery_charge_anim85</item>
+        <item>stat_sys_battery_charge_anim86</item>
+        <item>stat_sys_battery_charge_anim87</item>
+        <item>stat_sys_battery_charge_anim88</item>
+        <item>stat_sys_battery_charge_anim89</item>
+        <item>stat_sys_battery_charge_anim90</item>
+        <item>stat_sys_battery_charge_anim91</item>
+        <item>stat_sys_battery_charge_anim92</item>
+        <item>stat_sys_battery_charge_anim93</item>
+        <item>stat_sys_battery_charge_anim94</item>
+        <item>stat_sys_battery_charge_anim95</item>
+        <item>stat_sys_battery_charge_anim96</item>
+        <item>stat_sys_battery_charge_anim97</item>
+        <item>stat_sys_battery_charge_anim98</item>
+        <item>stat_sys_battery_charge_anim99</item>
+        <item>stat_sys_battery_charge_anim100</item>
+        <item>stat_sys_battery_charge_animfull</item>
+        <item>stat_sys_battery_full</item>
+    </string-array>
+    <string-array name="config_multiWindowSupportAppList">
+        <item>com.android.email</item>
+        <item>com.android.mms</item>
+        <item>com.sec.android.mms.kor</item>
+        <item>com.sec.android.app.snotebook</item>
+        <item>com.sec.chaton</item>
+        <item>com.google.android.apps.maps</item>
+        <item>com.google.android.maps</item>
+        <item>com.google.android.gm</item>
+        <item>com.google.android.talk</item>
+        <item>com.google.android.youtube</item>
+        <item>com.google.android.gsf.login</item>
+        <item>com.android.chrome</item>
+        <item>com.facebook.katana</item>
+        <item>com.kakao.talk</item>
+        <item>com.twitter.android</item>
+        <item>com.infraware.polarisviewer4</item>
+        <item>com.infraware.polarisoffice4</item>
+    </string-array>
+
+</resources>
